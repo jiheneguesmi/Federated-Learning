@@ -59,6 +59,3 @@ pip install -q flwr[simulation] flwr-datasets[vision] torch torchvision matplotl
 - [Flower Documentation](https://flower.dev/docs/)
 - [PyTorch Documentation](https://pytorch.org/docs/)
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
